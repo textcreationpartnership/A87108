@@ -1,0 +1,286 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Plaine English to our wilfull bearers with Normanisme; or, Some queries propounded to and concerning the neglectours of Englands grand grievance and complaint lately published under the title of Anti-Normanisme. Wherein is undeniably demonstrated, that while this nation remaines under the title of the (pretended) Conquest, she and every member of her are no other then slaves properly so called; and moreover, that (while she retaines the same title) all her and her representators contending wirh [sic] their prince for ungranted priviledges, upon any pretence whatsoever, is unwarrantable and seditious.</title>
+            <author>Hare, John, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87108</idno>
+            <idno type="STC">Wing H764</idno>
+            <idno type="STC">Thomason E412_24</idno>
+            <idno type="STC">ESTC R22375</idno>
+            <idno type="EEBO-CITATION">99871727</idno>
+            <idno type="PROQUEST">99871727</idno>
+            <idno type="VID">161255</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87108)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161255)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 65:E412[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Plaine English to our wilfull bearers with Normanisme; or, Some queries propounded to and concerning the neglectours of Englands grand grievance and complaint lately published under the title of Anti-Normanisme. Wherein is undeniably demonstrated, that while this nation remaines under the title of the (pretended) Conquest, she and every member of her are no other then slaves properly so called; and moreover, that (while she retaines the same title) all her and her representators contending wirh [sic] their prince for ungranted priviledges, upon any pretence whatsoever, is unwarrantable and seditious.</title>
+                  <author>Hare, John, 17th cent.</author>
+               </titleStmt>
+               <extent>[5], 4, 10-14, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Whittington, at the Blew Anchor in Cornhill neere the Royall Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"To the reader" signed: Jo: Hare.</note>
+                  <note>A defence of the author's: St. Edwards ghost.</note>
+                  <note>Numerous errors in pagination.</note>
+                  <note>Annotation on Thomason copy: "Nouemb. 4th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hare, John, 17th cent. --  St. Edwards ghost --  Early works to 1800.</term>
+               <term>Great Britain --  History --  William I, 1066-1087 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161255:1" rendition="simple:additions"/>
+            <p>Plaine Engliſh TO Our wilfull Bearers with <hi>Normaniſme;</hi> OR, SOME QUERIES PROPOUNDED To and concerning the Neglectours of ENGLANDS grand Grievance and com<g ref="char:EOLhyphen"/>plaint lately publiſhed under the title of <hi>Anti Normaniſme.</hi>
+            </p>
+            <p>Wherein is undeniably demonſtrated, that while this Nation remaines under the Title of the (pretended)<hi>Conqueſt,</hi> She and every Member of her are no other then <hi>Slaves</hi> properly ſo called; And moreover, that (while ſhe retaines the ſame Title) all her and her Repreſentators contending with their Prince for <hi>ungranted</hi> priviledges, upon any pretence whatſoever, is <hi>un<g ref="char:EOLhyphen"/>warrantable</hi> and <hi>ſeditious.</hi>
+            </p>
+            <q>
+               <hi>Num inimicus ſum vobis, dum veritatem vobis enarro?</hi>
+               <bibl>Gal. 4.16.</bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>George Whittington,</hi> at the Blew Anchor in Cornhill neere the Royall Exchange, 1647.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:161255:2" rendition="simple:additions"/>
+            <pb facs="tcp:161255:2"/>
+            <head>To the Reader.</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>
+               <hi>THou mayſt (perhaps) wonder that this poore piece of plain truth, without lye or flattery in it, and being alſo unfurniſhed of the Licenſers Paſ<g ref="char:EOLhyphen"/>port, ſhould without an Armies protection adven<g ref="char:EOLhyphen"/>ture into the publique, in the month of an oppoſite piece of Ordnance charged with dire menances a<g ref="char:EOLhyphen"/>gainſt ſuch bold Intruders; But thou oughteſt rather to wonder that in</hi> England, <hi>and at ſuch a time at this, a Diſcourſe of this na<g ref="char:EOLhyphen"/>ture ſhould need to be written, or that being written, it ſhould ſeems queſtionable; For is it not</hi> a monſtrum horrendum, &amp;c. that a Parliament of England aſſiſted with an Army of the ſame, ha<g ref="char:EOLhyphen"/>ving conſulted and fought theſe 7. yeares in the bahalfe of this Nation, and for her Rights and Liberties, and having the whole Kingdome in their hands like a piece of Porters Clay, to be new moulded to their own pleaſure, ſhould not yet take it into their heads, nor after it hath been <note n="*" place="margin">viz. By the Edi<g ref="char:EOLhyphen"/>tion of Anti-Norma<g ref="char:EOLhyphen"/>niſme.</note> thruſt into their heads, ſuff<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r it to enter their hearts to deliver the Nation from the ſlavery of an unjuſt, diſgracefull, pretended, Conqueſt by forraign E<g ref="char:EOLhyphen"/>nemies? But thon wilt ſay (perhaps) that we are ſince united, and become one Body, and that the Succeſſours of the Con<g ref="char:EOLhyphen"/>querours are now our naturall Heads, and part of our Nation; but I anſwer, that there can be nothing more abſur'd then to
+<pb facs="tcp:161255:3"/>
+ſay ſo, For as there can be no Conqueſt of a Nation, but by for<g ref="char:EOLhyphen"/>raigne Enemies, <hi>Rome</hi> being never ſaid to be conquered till the Goths came, though it had been often before forceably maſte<g ref="char:EOLhyphen"/>red, for that thoſe Maſterers (namely <hi>Caeſar</hi> &amp; many of his Suc<g ref="char:EOLhyphen"/>ceſſours) were members of her ſelfe; <hi>So the Heyres of a Conque<g ref="char:EOLhyphen"/>rour, while they retaine his right and title, though it be after a my<g ref="char:EOLhyphen"/>riade of deſcents from him, do ſtill retain the quality of profeſt for<g ref="char:EOLhyphen"/>raign Enemies, only with this diſtinction,</hi> that the Conquerour is the Victour, and his Succeſſours the Triumphers; <hi>Now that triumphing doth alſo of it ſelfe neceſſarily imply a forraign Enmi<g ref="char:EOLhyphen"/>ty, appeares alſo (to omit reaſon) from the practiſe of the ſaid R<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>manes</hi> (who were no Noveliſts in theſe matters) <hi>for that no tri<g ref="char:EOLhyphen"/>umph could be acted among them, but only over forraign Enemies,</hi> Civill-warre Victories afforded no Laurels,<hi>whence(by the way) We may alſo obſerve the ab<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urdity of ſome Who of late would needs march laureated through this City: But if any be cenſor<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ouſly in<g ref="char:EOLhyphen"/>clined againſt me for this worke, my defence is this.</hi>
+            </p>
+            <p n="1">1. That the Parliament have declared (as the chiefe warrant for all their actions)that <hi>Res Populi</hi> is the Supreame Law; Now I muſt new mould my Notions, if what I have here, and in my Anti-Normaniſme propounded, be no: more for the ſervice, not only of the People and Parliament, but alſo of the King, then a<g ref="char:EOLhyphen"/>ny thing that hath been yet propounded, ſaid or done, in this Kingdome, ſince the pretended Conqueſt unto this day; for that without this effected (n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mely the aboliſhing of the Right and Title of the Conqueſt) our Kings are (in naked truth, as Dr.<hi>Hudſon in his Late Treatiſe of Government,</hi> p. 123. grants, and I have before manifeſted) no better then uſurplug Forraigners, our people abſolute ſlaves, and our Parliaments undutifull ſer<g ref="char:EOLhyphen"/>vitors to both; ye<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, without this, not only the proceedings of this Parliament are irregular(which is the ſumme of what my enſuing Diſcourſe charges upon them) but alſo all our Lawes and Liberties, even <hi>Magna Charta</hi> it ſelfe, are without any firm foundation, and may in point of ſtrict Law (though not of Conſcience)be blown down with the Kings arbytrary breath; and thus much is <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vincible, not only by reaſo<g ref="char:cmbAbbrStroke">̄</g>, but alſo from the
+<pb facs="tcp:161255:3"/>
+tenour of <hi>Magna Charta</hi> it ſelfe, which runs thus; <hi>Spontaneâ &amp; bonâ voluntate nostrâ dedimus &amp; conceſſimus,</hi> &amp;c. which ſhewes it to be only a free and ſpontaneous Grant, and ſuch free Grants are revokable at pleaſure, the ſole ground and con<g ref="char:EOLhyphen"/>ſideration of it being expreſt to be reſpect of duty toward God, and not of duty (though benefit) to the Nation. <hi>It is alſo manifeſt from a confeſſion of Parliament, cited by Mr.</hi> Pryn, in his Soveraign power, <hi>p. 59. (though he (good man) cited it to prove the contrary) extant in a memorable Record (as he cals it) in the Parliament Rolls of the</hi> 1. <hi>of</hi> H. 4. Numb. 108. <hi>where it is recited, that King</hi> Richard <hi>ſhould ſay, that the Kings of this Realme might turne (or change) the Lawes at their plea<g ref="char:EOLhyphen"/>ſure, which aſſertion the Parliament did not deny to be true, but in<g ref="char:EOLhyphen"/>ſtead thereof, accepted of the Kings gracious promiſe not to take advantage of ſuch his Prerogative, but to keep the Lawes, &amp;c. So that by this time, I ſuppoſe it appeares, that</hi> I <hi>have the warrant of the Supreame Law of</hi> Res Publica <hi>for my Enterpriſe; But if thou findeſt fault that it is too bold and plain, I anſwer, that I know no<g ref="char:EOLhyphen"/>thing in it more bold or plaine, then true, nor yet then neceſſary, ſee<g ref="char:EOLhyphen"/>ing the ſofter and ſuaſory language of my</hi> Anti-Normaniſme <hi>ob<g ref="char:EOLhyphen"/>tained no regard.</hi>
+            </p>
+            <p n="2">2. <hi>It is commanded in the Moſaicall Law, that</hi> Si Beſtiam errantem videris, reduxeris in viam, <hi>and if we owe ſuch dutifull endeavours to Beaſts, then, much more to the Pilots of our State.</hi>
+            </p>
+            <p>
+               <hi>Laſtly, admit an incredibility, that is, that our Stateſmen ſhould profeſſe themſelves</hi> Normanes, <hi>and ſo perſecute the Aſſertors of the Engliſh Liberty as Enemies; yet ſhould I not repent my ad<g ref="char:EOLhyphen"/>venturing in this Cauſe, for that</hi> Dulce et decorum eſt pro Pa<g ref="char:EOLhyphen"/>tria mori. <hi>But it is high time to end, leaſt I meet with a</hi> Diogenes <hi>and heare of</hi> Myndas. <hi>Therefore farewell,</hi>
+            </p>
+            <closer>
+               <signed>JO: HARE.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:161255:4"/>
+            <head>QUAERIES.</head>
+            <head type="sub">Propounded to and concerning the Neglectours of <hi>Englands</hi> grand Grievance, &amp;c.</head>
+            <p>
+               <hi>Quarie I.</hi> WHether among the Civill Rights of this Nation, <note place="margin">If it be of no value, Why was the violation of it made one of the heynous Articles againſt the E. of Strafford, <hi>viz.</hi> for occaſioning the diſ<g ref="char:EOLhyphen"/>honourable loſſe of Newca<g ref="char:EOLhyphen"/>ſtle to the <hi>Sco's?</hi>
+               </note> which (in name) have been ſo highly and hotly contend<g ref="char:EOLhyphen"/>ed for, her <hi>Honour</hi> be of ſo inferi<g ref="char:EOLhyphen"/>our a value, as not to be worthy the leaſt conſideration?</p>
+            <p>
+               <hi>Qu.</hi> 2. Whether it be not an ab<g ref="char:EOLhyphen"/>ſurdity to aſcribe other <hi>Honour</hi> to our Nation then to a Slave, <note place="margin">For what is a Slave but a Captive ſerving his Conque<g ref="char:EOLhyphen"/>rour or his Heyres? And moreover, according to your own verdict, if the ſuffering of one Towne to be conque<g ref="char:EOLhyphen"/>red, was a betraying of the Nations honour; then what is the ſuffering of the whole Nation to ly under a Conqueſt?</note> while ſhe remaines a Captive, &amp; weares the Title and <note n="*" place="margin">If you know not what thoſe are, ſee Anti-Nor<g ref="char:EOLhyphen"/>maniſme, p. 2, 13, 14.</note> Badges of Capti<g ref="char:EOLhyphen"/>vity?</p>
+            <p>
+               <hi>Qu.</hi> 3. Whether it be not an abſurdity to pretend to reſtore or advance this Nation to her juſt <hi>Freed me,</hi> 
+               <note place="margin">The juſt Freedome of this Nation conſiſt in being un<g ref="char:EOLhyphen"/>der a Prince (or his Heyres) of her own Election, Blond, or (at leaſt) Admiſſion, and under her owne Lawes, of which Lawes (alſo) the Supreame next unto Gods glory (according to your own doctrine) ought to be <hi>Salus Popu<g ref="char:EOLhyphen"/>li;</hi> But ye make her to profeſſe her ſelf to be under the do<g ref="char:EOLhyphen"/>minion of her uſurping Enemies, (for what's a Conqueror, or any ſuceeding in his Right, but a prevailing and try<g ref="char:EOLhyphen"/>umphing Enemy) of which ſort of Dominions (namely thoſe grounded upon Conqueſts) (alſo) the Supreame and Fundamentall Law, and which is unſeparable from that Ti<g ref="char:EOLhyphen"/>tle, is unqueſtionably (as I ſhall anon prove) the Will, Ho<g ref="char:EOLhyphen"/>nour, and benefit of the Conquerour and his Heyres; And yet ye call your ſelves Aſſertors of your Nations Liber<g ref="char:EOLhyphen"/>ties.</note> and yet to leave her un<g ref="char:EOLhyphen"/>der
+<pb n="2" facs="tcp:161255:4"/>
+the title and injuries of a (pre<g ref="char:EOLhyphen"/>tended) Conquest?</p>
+            <p>
+               <hi>Qu.</hi> 4. Whether they are not, <note place="margin">Your owne intereſts and claimes you aſſert with Swords; But your Nations juſt Freedome and Honour, that might diſtinguiſh her from a Slave, not with a word.</note> and are not to be repu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed, of pri<g ref="char:EOLhyphen"/>vate ſpirits and intereſts (whatever they boaſt) whether they be Coun<g ref="char:EOLhyphen"/>cels, Cities, or Armies, that are ſo tender of their owne honours and intereſts, and yet ſo negligent (or elſe ignorant) of their Nations?</p>
+            <p>
+               <hi>Qu.</hi> 5. Whether they are not contemptibly ridiculous, that call themſelves men of honour, or ſo much as Free-men (how highly ſo<g ref="char:EOLhyphen"/>ever born,<note place="margin">The Right Honourables of an Enſlaved Nation, are but right honourable ſlaves.</note> in what dignity ſoever placed, or whatſoever they have at<g ref="char:EOLhyphen"/>chieved againſt their owne Coun<g ref="char:EOLhyphen"/>try-men) who yet with the ſame mouth confeſſe and profeſſe them<g ref="char:EOLhyphen"/>ſelves Members of a Captive Na<g ref="char:EOLhyphen"/>tion?</p>
+            <p>
+               <hi>Qu.</hi> 6. VVhether they are not alſo confeſſedly ſeditious, <note place="margin">It is no other then as if one ſhould ſay, <hi>Sir,</hi> I am and will be your ſlave in right and title, but your Maſter in Act.</note> who profeſſing their Nation, and con<g ref="char:EOLhyphen"/>ſequently themſelves, to be Cap<g ref="char:EOLhyphen"/>tives by right of Conqueſt, and
+<pb n="2" facs="tcp:161255:5"/>
+moreover being (like the Jewes eare-bored ſlaves) nor minded to leave that qualitie and profeſſion, doe yet contend wi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h their Prince for free Subjects Priviledg<g ref="char:EOLhyphen"/>es or rather (<hi>Mamaluck</hi>-like) to be ſharers in the Su<g ref="char:EOLhyphen"/>preame Authoritie?</p>
+            <p>
+               <hi>Objection</hi> 1.</p>
+            <p>Yea, but our firſt Normane Prince was admitted upon Tea<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ms, as being Legatee and Kinſman of S<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>Ed<g ref="char:EOLhyphen"/>ward,</hi> and upon condition to preſerve our Lawes and Liberties.</p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>Ye contradict it your selves, <note place="margin">If perchance you deny that you ſay it, and ſo think to invalidate all my incuſa<g ref="char:EOLhyphen"/>tions with that Paradox. What meanes his title of Conqueror, which ye ſtill al<g ref="char:EOLhyphen"/>low him? the Doctrine of his Conqueſt of this Nati<g ref="char:EOLhyphen"/>on, which without your contradiction remaines a re<g ref="char:EOLhyphen"/>ceived Maxime in this Kingdome? The Effects and Badges of ſuch a Conqueſt, which you retain as Orna<g ref="char:EOLhyphen"/>ments? Your ſuffering <hi>Magna Charta</hi> to be in the mouth of the Law, the foundation of our Liberties? And laſtly) your <hi>a Conqueſtu,</hi> currant not onely in paſt Acts of Parliament, which (untill you gaine<g ref="char:EOLhyphen"/>ſay them) enjoy your ſuffrage, but alſo in Fines paſt by the Authority of your own Great Scale of <hi>England</hi> at this day?</note> while ye ſay (how truly I have <note n="*" place="margin">Anti-Norm. <hi>p.</hi> 15.</note> elſe where ſhowne) that hee came in by Conqueſt.</p>
+            <p>
+               <hi>Object</hi> 2.</p>
+            <p>But we have ſithence had a Charter of Liberties granted us.</p>
+            <p>
+               <pb n="4" facs="tcp:161255:5"/>
+               <hi>Anſw</hi> But there is no clauſe in that Charter for libertie to contend for more, the granting you an Inch intitles you not to the taking of an Ell; And as for the Clauſe ther<g ref="char:EOLhyphen"/>in (which Mr. <hi>Pryn in his Soveraigne Power,</hi> p. 74. ſticks not to alledge as an undeniable Warrant for all your proceedings) <hi>That the Prince will not deny or deferre ju<g ref="char:EOLhyphen"/>stice or right to any man,</hi> by <hi>Iustice</hi> or <hi>Right</hi> is plainely meant <hi>Execution of Law,</hi> and not a fulfilling of your unlimited Deſires, as is manifeſt by the reſt of that Chapter, and confirmed by the Lord <hi>Cookes</hi> Expoſi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion of that place.</p>
+            <p>
+               <hi>Object.</hi> 3.</p>
+            <p>But the King is bound by his Coronation Oath to grant all ſuch juſt and reaſonable Lawes as the People (that is the Commons in Parliament) ſhall chooſe.</p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>This I confeſſe (if it were ſo, and according to your own interpretation; that is, to grant all ſuch Lawes as you ſhall ſay are juſt and reaſonable) might ſeeme a bottomleſſe priviledge, able to furniſh you with Licentiouſneſſe enough (I Will not ſay Libertie, for were you inveſted with as many donations &amp; priviledges as <hi>Haman,</hi> or any Fa<g ref="char:EOLhyphen"/>vourite in the Turkiſh Court, yet while you profeſſe to ſerve in reference to a Conqueſt, you are but <note n="*" place="margin">For the mitigation of Slavery doth not take away the Eſſence of it. Now you cannot deny, that you ſerve in reference to a Conqueſt, ſeeing you are ſo farre from ever having decla<g ref="char:EOLhyphen"/>red him whom you call your Conque<g ref="char:EOLhyphen"/>rour, an Vſurper, that you place him, for the Root and Alpha of your right. fulll Kings in the Regall Catalogue.</note> Slaves) Yet for An<g ref="char:EOLunhyphen"/>ſwer, I ſay, It is well known that our preſent King never took any ſuch Oath.</p>
+            <p>
+               <hi>Reply.</hi> But hee ought to have taken it.</p>
+            <p>
+               <pb n="10" facs="tcp:161255:6"/>
+               <hi>Anſw.</hi> Whether he ought or not, ſince he did it not, he is not bound by it in Law; and as to his obligement to take it, if any ſuch obligation was, it muſt be either by Statute or Cuſtome, by Statute you will not ſay it was, and as for Cuſtome, to make it obligatorie, it muſt (according to your owne <note n="*" place="margin">The Lord <hi>Cook</hi> and others.</note> Oracle) have both Reaſon, and uſage time out of mind; But this oath by your own <note n="*" place="margin">in your Re<g ref="char:EOLhyphen"/>monſtroof the 2. of Novem. 1642</note>confeſſion, was vſed neither by <hi>Henry</hi> the 8. <hi>Edward</hi> the 6. King <hi>James,</hi> nor King <hi>Charles,</hi> So that in ſtead of uſage, here is a diſuſage; and as for Reaſon, there is leſſe; for what reaſon is there that ſome <hi>Princes</hi> and their Heyres doing ſome Acts of grace and favour (as I ſhall anon prove that you grant this to be) to their people, that therefore all there Poſterity ſhould be obliged to the ſame as duties? ſo that you ſee this Oath cannot in any wiſe bind your <hi>Prince,</hi> for that he neither took it, nor was bonnd to take it;But although he had taken it, yet I ſhall ſufficiently prove,(notwith<g ref="char:EOLhyphen"/>ſtanding all Mr.<hi>Prins</hi> impertinent volumes to the con<g ref="char:EOLhyphen"/>trary) that (while you allow to his Bloud the right of a conqueſt over your nation) the Oath would not ſerve your turn ſo as to give you authority to force to the performance of your deſires; for first, you ſay it was an Oath, Now an Oath or <hi>votum</hi> hath not you but God for the obiect, ſo that if it be violated, he alone is the <hi>vindex,</hi> &amp; that it is ſo, is teſtified by this, that the Oath is tendered not by you or your ſubſtitutes but by the Arch-<hi>Biſhop,</hi> who is Gods Repreſenter teſtified by his Crowning and annoynting the <hi>Prince</hi> which confers on him, or ſignifies the conferring of the Divine authority; now that it makes him not lia<g ref="char:EOLhyphen"/>ble to you, appeares alſo by our owne Laws, for what
+<pb n="11" facs="tcp:161255:6"/>
+Lawyer ever heard of an Action brought upon an Oath? In all the Regiſter no ſuch writ occurres; But if you will make it a Covenant or Promiſe, that it may be obligatory, it must be grounded upon a valuable conſideration, now that here is no valuable conſideration appeares from your own confeſſion, for you confeſſe him to be your King by right of conquest and ſucceſſion, and accordingly doe reckon his reigne from the death of his Predeceſſor, not his own coronati<g ref="char:EOLhyphen"/>on as being but a ceremony and that alſo adminiſtred neither by you nor your Subſtitutes, So that it is plain that you ſhould have no ſufficient right to exact the performance of it if he had taken it; But grant both that he had taken it, and alſo that he were thereby bound unto you, yet could you not from thence juſt<g ref="char:EOLhyphen"/>ly claime your demaunds, for that which the Oath binds to is the granting of juſt and reaſonable things, but the things that you demaund are proper and fit onely for ingenuous ſubiects, or rather for <hi>Conſortibus Imperij,</hi> whereas (you know) <hi>Non decet Liberorum panem Canibus objicere;</hi> you have no reaſon to diſdain the com<g ref="char:EOLhyphen"/>pariſon, ſince that Dogs themſeves are ſo diſdainable beyond other creatures onely for this that they are be<g ref="char:EOLhyphen"/>yond the reſt, ſuch <hi>Servi Voluntari<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi>
+            </p>
+            <p>
+               <hi>Object.</hi> 4.</p>
+            <p>But the King is bound to theſe things by the Law of nature and inferences from <hi>Salus populi</hi> which is the ſupreame law:</p>
+            <p>
+               <pb n="12" facs="tcp:161255:7"/>
+               <hi>Anſw.</hi>
+            </p>
+            <p>Yee have nothing to doe with the priviledges of the Law of nature or <hi>Salus populi,</hi> while you adhere to a ſubjectedneſſe by right of conqueſt, for in ſo doe<g ref="char:EOLhyphen"/>ing, you renounce them: neither will any man ſay, you deſerve them, while having <hi>Liberty</hi> (that is Obedience in reference to a ſucceſſion from the legitimate <hi>Princes</hi> of your own blood) and <hi>Servitude</hi> (that his ſubiection in reference to a (pretended) Conqueſt) both which Titles are concurrent in His Majeſtie, who (no doubt) is willing to indulge aſwell to the honour as to the be<g ref="char:EOLhyphen"/>nefit of his Subjects, while (I ſay) having theſe two ſet before you, you reject the firſt, and preferre the ſer<g ref="char:EOLhyphen"/>vitude: In this Caſe therefore you are to look onely to the nature of the Law of Co<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>queſt<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, which as you may reade in <hi>Caeſar, lib</hi> 1. <hi>de Bello Gallico,</hi> is this, <hi>vt hi qui Viciſſent his quos Viciſſent quem admodum Vellent Im<g ref="char:EOLhyphen"/>perarent,</hi> that the Conquered are under the arbitrary Government and power of the Conquerour; And conſequently, while ye are pleaſed to remaine in that qualitie, you are to make much of your Princes Grants of favour, whether paſt, or future, and not to challenge more, for no more belongs to you: In ſumme it is plaine, that while you retain your deare profeſſion of Captivitie (notwithſtanding all allegations whatſoe<g ref="char:EOLhyphen"/>ver, that have been, or can be raiſed to the contrarie) in contending for ungranted Priviledges, you doe but act Sedition, and repeat the old <hi>Bellum Servile.</hi>
+            </p>
+            <p>
+               <hi>Demonſtrations</hi> from Scripture (for thoſe that will not underſtand Reaſon)That to be under <hi>Conqueſt</hi> is to
+<pb n="13" facs="tcp:161255:7"/>
+be in <hi>Slavery,</hi> and that ſuch Servitude is a Curſe, and conſequently that it is abſurd to pretend to make this Nation bleſſed (or happy) and yet to leave her in that qualitie.</p>
+            <p>Of whom a man is <hi>overcome,</hi>
+               <note place="margin">2 Pet. 2.19.</note> of the ſame he is brought in <hi>Bondage.</hi> Now that ſuch <hi>Bondage</hi> is a <hi>curſe</hi> may ſuf<g ref="char:EOLhyphen"/>ficiently appeare by Inferences from the following Texts.</p>
+            <p>
+               <hi>Curſed</hi> be <hi>Cham,</hi>
+               <note place="margin">Gen. 9.5., R<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m. 9, 12, 13.</note> he ſhall be a <hi>Servant of Servants.</hi> Th'elder ſhall <hi>Serve,</hi>&amp;c. as it is written, <hi>Eſau</hi> have I <hi>hated;</hi> where ſuch Servitude is made a Demonſtration of the divine hatred.</p>
+            <p>The Stranger that is within thee ſhall get up above thee very high and thou ſhalt come down very low,<note place="margin">Deut, 28.12. in that grand Char<g ref="char:EOLhyphen"/>ter if Cur<g ref="char:EOLhyphen"/>ſes.</note> he ſhall lend to thee, and thou ſhalt not l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd to him, (<hi>viz.</hi> Lawes, Language, Cuſtomes, &amp;c.) he ſhall be the head, and thou ſhalt be the taile, which is ou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> very Caſe.</p>
+            <p>In ſumme, while ye foſter the Right, Title, and Evi<g ref="char:EOLhyphen"/>dences of this (<hi>pretended</hi>) Conqueſt, Ye make a curſed Slave of your Country an uſurping Forrainer of your King, and your Selves ſtrange Servi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ors to both. And therefore one may juſtly ſay to our Reformers, in the behalfe of <hi>England,</hi> as <hi>Cato</hi> once did to <hi>Pompey</hi> in the Cauſe of <hi>Rome, Miſeram quid decipis urbem Si ſervire potes?</hi> Never pretend to lead us out of our Grievances into Bleſſedneſſe, If you account the injuries and diſ<g ref="char:EOLhyphen"/>grace of a (pretended) Conqueſt, for no Burthen, and can be content to ſuffer your ſelves, and your Nation to weare forever the accurſed Title and Badges of Cap<g ref="char:EOLhyphen"/>tivitie.</p>
+            <p>If ye aske what then is to be done? ye may pleaſe to ſee what is ſet down in <hi>Anti-Norm.</hi> p. 19. which
+<pb n="14" facs="tcp:161255:8"/>
+may be eaſily eff<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cted without injury to or iuſt oppoſi<g ref="char:EOLhyphen"/>tion of an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which is alſo required not only by this N<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tions Right, but alſo by the Right of his Maj. juſt Title (de<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ived from the Engliſh Bloud-Royall, one way, and from St. <hi>Edwards</hi> Legacie joyned with this N<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ti<g ref="char:EOLhyphen"/>ons admiſſion of the Normane Bloud, another way) a<g ref="char:EOLhyphen"/>gainſt the unjuſt uſurpation of his other Title attribu<g ref="char:EOLhyphen"/>ted to his Bloud (at firſt by Traytors and Enemies to this Nation) from a (pretended) Conqueſt, which even Dr.<hi>Hudſon</hi> in his late Book of Government, p. 123, 124. (though one of the greateſt Royaliſts in the King<g ref="char:EOLhyphen"/>dome) declares to be no bet<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er then Sacrilegious Theft and Robberie, and that the ſame ought both in Honour and Conſcience, to be oppugned by all duti<g ref="char:EOLhyphen"/>full Patriots with their utmoſt abilities.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
